@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+
+}
+hr{
+    border-color:pink;
+}
+img:hover {
+	transform: scale(1.1) ;
+}
+h1 {
+	font-family: Bradley hand ITC;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	margin-top: 10px;
+	box-shadow: 4px 4px 5px #888888 ;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-justify: auto;
+}
+li {
+	color:#6e0902;
+	line-height: 30px;
+	font-size: 180%;
+	font-family:'Cookie', cursive;
+	font-weight: bold;
+    background-color:rgb(253, 195, 253);
+}
+.all {
+    text-align: center;
+    display:list-item;
+    justify-content: center;
+    align-items: center;
+}
